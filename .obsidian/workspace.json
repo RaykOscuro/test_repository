@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics of Web Development.md",
+                "file": "Languages/Markdown/Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics of Web Development.md",
+                "file": "Languages/Markdown/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics of Web Development.md",
+                "file": "Languages/Markdown/Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics of Web Development.md"
+                "file": "Languages/Markdown/Markdown.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8935f75eaf8ac69",
+  "active": "1b11d9fd5187a8c8",
   "lastOpenFiles": [
+    "Basics of Web Development.md",
+    "Design/UX and UI.md",
+    "Languages/Markdown/Markdown.md",
+    "Languages/SQL/SQL.md",
+    "Tools/Git.md",
+    "Libraries and Frameworks/Express.md",
+    "Languages/CSS/CSS.md",
     "Languages/CSS/Properties",
     "Languages/CSS/Media Query",
     "Languages/CSS/Grid",
@@ -158,26 +165,18 @@
     "Languages/SQL",
     "Languages/NodeJS",
     "Languages/Markdown",
-    "Languages/Javascript",
-    "Basics of Web Development.md",
     "Tools/Figma.md",
     "Tools/Visual Studio Code.md",
-    "Tools/Git.md",
     "Tools/Comand Line.md",
     "Frontend.md",
-    "Languages/Markdown/Markdown.md",
     "Libraries and Frameworks/Internationalization.md",
     "Languages/NodeJS/NodeJS.md",
     "Backend/Backend.md",
-    "Languages/CSS/CSS.md",
     "Libraries and Frameworks/Prisma.md",
     "Libraries and Frameworks/NextJS.md",
-    "Libraries and Frameworks/Express.md",
-    "Languages/SQL/SQL.md",
     "Frontend/Frontend.md",
     "Libraries and Frameworks/Testing.md",
     "Libraries and Frameworks/React.md",
-    "Design/UX and UI.md",
     "Languages/Typescript/Typescript.md",
     "Languages/Javascript/Javascript.md",
     "Languages/HTML/HTML.md",
